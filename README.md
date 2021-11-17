@@ -1,2 +1,2 @@
-# SFEP2020_Co-op
+# Tensorflow JS
 2020 성균관대학교 코옵
